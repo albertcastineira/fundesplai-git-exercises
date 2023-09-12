@@ -15,7 +15,7 @@ To push our changes that we have pending we type the next command:
 ````git push```  
 If we have any type of problems pushing the changes could be one of this problems: 
 - We dont have the correct remote path  
- If this is the case we will check for the current remote path with: ````remote -v```  
+ If this is the case we will check for the current remote path with: ```remote -v```  
  This command will show our current remote paths. If its empty we need to make sure that we add the corresponding remote path with: ```git remote add REPO_NAME GIT_USER:GIT_PATH```  
 
 - We dont have any changes ready to push
