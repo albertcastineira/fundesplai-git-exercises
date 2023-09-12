@@ -48,5 +48,6 @@ If we have any type of problems pushing the changes could be one of this problem
  The second exercise working with branches  
  Commit 1  
  Commit 2  
+ Commit 3  
 
 
