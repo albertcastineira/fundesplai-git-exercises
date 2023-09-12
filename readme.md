@@ -51,7 +51,7 @@ If we have any type of problems pushing the changes could be one of this problem
  Commit 3  
 
  # Exercise 6
- To create an alias & using the adog we need to use this command:  
+ To create an alias adog we need to use this command:  
  ```git config --global alias.adog "log --all --decorate --oneline --graph```
 
 
