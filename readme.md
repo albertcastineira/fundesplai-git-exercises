@@ -1,4 +1,4 @@
-# Ejercicio 1  
+# Exercise 1
   
 ## 1 Creating the repo
 First of all we need to create a new repo on Github. After creating it, we should clone it into our system. We will use the next command: 
