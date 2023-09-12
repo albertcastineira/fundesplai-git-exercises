@@ -38,16 +38,20 @@ If we have any type of problems pushing the changes could be one of this problem
 - We dont have any changes ready to push
  If this is the case we will make sure to add the changes using the previous commands.  
 
- ## Exercise 4  
+ # Exercise 4  
  My first exercise with branches  
  This line was added in a commit  
  This line was also added in a commit  
  This is the last line of this exercise!  
 
- ## Exercise 5  
+ # Exercise 5  
  The second exercise working with branches  
  Commit 1  
  Commit 2  
  Commit 3  
+
+ # Exercise 6
+ To create an alias & using the adog we need to use this command:  
+ ```git config --global alias.adog "log --all --decorate --oneline --graph```
 
 
