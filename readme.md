@@ -39,6 +39,7 @@ If we have any type of problems pushing the changes could be one of this problem
  If this is the case we will make sure to add the changes using the previous commands.  
 
  ## Exercise 4  
- My first exercise with branches
+ My first exercise with branches  
+ This line was added in a commit  
 
 
