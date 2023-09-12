@@ -52,6 +52,9 @@ If we have any type of problems pushing the changes could be one of this problem
 
  # Exercise 6
  To create an alias adog we need to use this command:  
- ```git config --global alias.adog "log --all --decorate --oneline --graph```
+ ```git config --global alias.adog "log --all --decorate --oneline --graph```  
+
+ # GIT PRACTICA  
+ https://github.com/albertcastineira/fundesplai-git-practicaGit
 
 
