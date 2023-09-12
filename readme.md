@@ -41,5 +41,7 @@ If we have any type of problems pushing the changes could be one of this problem
  ## Exercise 4  
  My first exercise with branches  
  This line was added in a commit  
+ This line was also added in a commit  
+ 
 
 
