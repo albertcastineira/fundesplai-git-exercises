@@ -36,6 +36,9 @@ If we have any type of problems pushing the changes could be one of this problem
  This command will show our current remote paths. If its empty we need to make sure that we add the corresponding remote path with: ```git remote add REPO_NAME GIT_USER:GIT_PATH```  
 
 - We dont have any changes ready to push
- If this is the case we will make sure to add the changes using the previous commands.
+ If this is the case we will make sure to add the changes using the previous commands.  
+
+ ## Exercise 4  
+ My first exercise with branches
 
 
