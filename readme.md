@@ -1,3 +1,20 @@
+# Exercise 1  
+
+## 1 Creating a local repo  
+To create a local repo we need to type this command:  
+```git init REPO_NAME```  
+To check if the repo its successfully created we will check our folder manager and see if there is any folder with the repo name that we created.  
+
+## 2 Adding a readme file to the repo  
+To add the readme to the staging area we need to use the next command: ```git add .```  
+Now this readme file is pending to be pushed to the repo.  
+If we try to push the readme file it will show us an error. This will happen cause we didn't add any remote path.  
+To add a new path we will use: ```git remote add REPO_NAME GIT_USER:GIT_PATH```  
+This remote repo has to be created before adding the path that we said before.  
+Once we create the remote repo we will add the path and push the changes. Every time we need to check if the remote paths are correct we can use the next command: ```git remote -v```  
+  
+If we did the steps correctly we should see the changes reflected on the github repo!
+
 # Exercise 2
   
 ## 1 Creating the repo
