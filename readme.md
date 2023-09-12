@@ -29,7 +29,7 @@ Now this files that we added are pending to be pushed to a branch.
 
 ## 3 Pushing the changes to the repo  
 To push our changes that we have pending we type the next command:
-````git push```  
+```git push```  
 If we have any type of problems pushing the changes could be one of this problems: 
 - We dont have the correct remote path  
  If this is the case we will check for the current remote path with: ```remote -v```  
@@ -42,6 +42,12 @@ If we have any type of problems pushing the changes could be one of this problem
  My first exercise with branches  
  This line was added in a commit  
  This line was also added in a commit  
- This is the last line of this exercise!
+ This is the last line of this exercise!  
+
+ ## Exercise 5  
+ The second exercise working with branches  
+ Commit 1  
+ Commit 2  
+ Commit 3  
 
 
