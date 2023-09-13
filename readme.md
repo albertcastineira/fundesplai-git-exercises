@@ -57,4 +57,7 @@ If we have any type of problems pushing the changes could be one of this problem
  # GIT PRACTICA  
  https://github.com/albertcastineira/fundesplai-git-practicaGit
 
+ # GIT CONFLICTS  
+ https://github.com/albertcastineira/fundesplai-conflictos-git
+
 
